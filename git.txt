@@ -1,0 +1,7 @@
+init
+status
+log
+config ( email + user name 등록)
+add
+commit (-m)
+checkout
