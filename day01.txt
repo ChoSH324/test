@@ -1,0 +1,2 @@
+- 분산 버전 관리 시스템 ,파이썬 소개
+리녹스 명령어 status add commit init,  파일 ls ,ls -a
