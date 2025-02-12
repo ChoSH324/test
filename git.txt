@@ -11,3 +11,16 @@ git push
 git remote remove<--기존 원격 삭제
 git remote add origin https://~ <--나의 원격 url로 업데이트
 git push -u origin main <-- git push 초기설정
+branch
+switch
+=====
+fork
+clone
+branch
+switch
+코드수정
+pull request
+branch -d 
+레포지토리 clone
+=====
+
